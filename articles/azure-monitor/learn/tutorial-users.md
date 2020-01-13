@@ -95,7 +95,7 @@ A **Cohort** is a set of users grouped on similar characteristics.  You can use 
 
 
 ## Compare desired activity to reality
-While the previous panels are focused on what users of your application did, **Funnels** focus on what you want users to do.  A funnel represents a set of steps in your application and the percentage of users who move between steps.  For example, you could create a funnel that measures the percentage of users who connect to your application who search product.  You can then see the percentage of users who add that product to a shopping cart, and then the percentage of those who complete a purchase.
+While the previous panels are focused on what users of your application did, **Funnels** focus on what you want users to do.  A funnel represents a set of steps in your application and the percentage of users who performed steps between defined at funnel.  For example, you could create a funnel that measures the percentage of users who connect to your application who search product.  You can then see the percentage of users who add that product to a shopping cart, and then the percentage of those who complete a purchase.
 
 1. Select **Funnels** in the menu and then click **New**. 
 
