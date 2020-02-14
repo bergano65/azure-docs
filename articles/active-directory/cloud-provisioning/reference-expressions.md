@@ -98,6 +98,9 @@ The BitAnd function sets specified bits on a value.
 **Syntax:**  
 `num BitAnd(num value1, num value2)`
 
+---
+why function descriptions with parameters aren't uniform?
+---
 * value1, value2: numeric values that should be AND’ed together
 
 **Remarks:**  
